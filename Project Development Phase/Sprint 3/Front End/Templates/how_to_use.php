@@ -19,14 +19,14 @@
 <h2 class="text-big" id="web"> STEP 1. Open The HomePage</h2>
 <center>
 <div id="yt">
-<img src="img/i1.png" alt="">
+<img src="static/img/i1.png" alt="">
 </div>
 </center>
 
 <h2 class="text-big" id="web"> STEP 2. Click The DetecT Option </h2>
 <center>
 <div id="yt">
-<img src="img/i2.png" alt="">
+<img src="static/img/i2.png" alt="">
 </div>
 </center>
 
@@ -34,7 +34,7 @@
 <h2 class="text-big" id="web"> STEP 3. Fill The Form </h2>
 <center>
 <div id="yt">
-<img src="img/i3.png" alt="">
+<img src="static/img/i3.png" alt="">
 </div>
 </center>
 
@@ -42,7 +42,7 @@
 <h2 class="text-big" id="web"> STEP 4. Draw The Spril And Drap Here</h2>
 <center>
 <div id="yt">
-<img src="img/i4.png" alt="">
+<img src="static/img/i4.png" alt="">
 </div>
 </center>
 
@@ -50,7 +50,7 @@
 <h2 class="text-big" id="web"> STEP 5. Draw The Wave And Drap Here</h2>
 <center>
 <div id="yt">
-<img src="img/i5.png" alt="">
+<img src="static/img/i5.png" alt="">
 </div>
 </center>
 
@@ -58,7 +58,7 @@
 <h2 class="text-big" id="web"> STEP 6. Click The Submit and Get Your Results </h2>
 <center>
 <div id="yt">
-<img src="img/i6.png" alt="">
+<img src="static/img/i6.png" alt="">
 </div>
 </center>
 </body>
